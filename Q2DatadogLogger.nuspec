@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Q2DatadogLogger</id>
+    <version>1.0.0</version>
+    <authors>Fabricio Junio</authors>
+    <owners>Q2 Ingressos</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A class for datadog log integration in .net projects.</description>
+    <tags>class library nuget</tags>
+  </metadata>
+</package>
